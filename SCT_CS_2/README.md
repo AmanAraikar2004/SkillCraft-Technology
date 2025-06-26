@@ -1,5 +1,3 @@
-### ✅ `SCT_CS_2/README.md`
-```markdown
 # Task 2 - PixelCrypt (Image Encryption in Bash)
 
 A secure image encryption/decryption tool built in Bash using **ImageMagick**. Supports XOR, Add/Subtract, and RGB Channel Swap.
@@ -14,6 +12,7 @@ A secure image encryption/decryption tool built in Bash using **ImageMagick**. S
 ## 🚀 Run
 ```bash
 bash task2.sh
+```
 
 📦 Requirements
 

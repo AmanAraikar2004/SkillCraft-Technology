@@ -1,5 +1,3 @@
-### ✅ `SCT_CS_3/README.md`
-```markdown
 # Task 3 - Password Strength Assessment (Bash)
 
 A terminal-based password checker that evaluates strength based on several criteria like length, case, digits, and symbols.
@@ -13,6 +11,7 @@ A terminal-based password checker that evaluates strength based on several crite
 ## 🚀 Run
 ```bash
 bash task3.sh
+```
 
 🔎 Output Example
 ✓ Length: 10 (+20)

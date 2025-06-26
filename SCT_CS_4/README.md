@@ -1,5 +1,3 @@
-### ✅ `SCT_CS_4/README.md`
-```markdown
 # Task 4 - Ethical Keylogger (Python)
 
 A professional, educational keylogger written in Python. Tracks keystrokes and logs window focus changes. Designed for **ethical use only**.
@@ -15,6 +13,7 @@ A professional, educational keylogger written in Python. Tracks keystrokes and l
 pip install pynput
 sudo apt install xdotool  # Linux only
 python3 task4.py
+```
 
 📦 Requirements
 

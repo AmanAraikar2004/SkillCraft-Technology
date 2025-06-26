@@ -11,6 +11,7 @@ This Bash script implements the **Caesar Cipher** to encrypt or decrypt text usi
 ## 🚀 Usage
 ```bash
 bash task1.sh
+```
 
 📦 Requirements
 
